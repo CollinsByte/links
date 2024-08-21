@@ -1,4 +1,4 @@
-const username = 'TheOddagen';
+const username = 'CollinsByte';
 const linkList = document.querySelector('.link-list');
 const linksSection = document.querySelector('.links');
 const filterInput = document.querySelector('.filter-links');
@@ -72,7 +72,7 @@ const links = [
     {
         name: 'Resume',
         description: 'What I have done so far',
-        url: 'https://github.com/TheOddagen/resume/blob/main/Resume.pdf',
+        url: 'https://github.com/CollinsByte/resume/blob/main/Resume.pdf',
         icon: 'fa-brands fa-wpforms',
         color: '#008abd'
     },
@@ -100,28 +100,28 @@ const links = [
     {
         name: 'Blog',
         description: 'About things I build and learn',
-        url: 'https://theoddagen.github.io/blog',
+        url: 'https://CollinsByte.github.io/blog',
         icon: 'fa-brands fa-blogger',
         color: '#f57c00'
     },
     {
         name: 'Portfolio',
-        description: '/home/TheOddagen',
-        url: 'https://theoddagen.github.io/collin',
+        description: '/home/CollinsByte',
+        url: 'https://CollinsByte.github.io/collin',
         icon: 'fa-brands fa-fort-awesome',
         color: '#1688f0'
     },
     {
         name: 'Projects',
         description: 'All my projects!',
-        url: 'https://theoddagen.github.io/projects',
+        url: 'https://CollinsByte.github.io/projects',
         icon: 'fa-brands fa-product-hunt',
         color: '#da552f'
     },
     {
         name: 'Instagram',
         description: 'Glimpse of my life and journey',
-        url: 'https://instagram.com/theoddagen',
+        url: 'https://instagram.com/CollinsByte',
         icon: 'fa-brands fa-instagram',
         color: '#e1306c'
     },
